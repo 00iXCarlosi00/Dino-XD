@@ -1,2 +1,1 @@
-# Dino-XD
-XD
+# Juegos-compatibles-con-dispositivos
